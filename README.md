@@ -17,17 +17,17 @@ LiPoバッテリー（3.7V）からmicro:bitやブレッドボードに3.3V電�
 - Max output current : 500mA
 - Input connector : JST PH 2-pin
 - Output connector : 2.54mm pitch,through hole
-- Schematics : [aaa]()
+- Schematics : [hsb-vrb-v1_schematics.pdf](./hsb-vrb-v1_schematics.pdf)
 
 ## Usage examples
 
 #### 1. for micro:bit
 
-![for_microbit](./images/for_microbit.png | width=480)
+![for_microbit](./images/for_microbit.jpeg | width=480)
 
 #### 2. for breadboard
 
-![for_breadboatd](./images/for_breadboard.png | width=480)
+![for_breadboatd](./images/for_breadboard.jpeg | width=480)
 
 ## Solder jmper setting
 
@@ -35,7 +35,7 @@ LiPoバッテリーのケーブル正負に応じて，ソルダジャンパを�
 
 ![solder jumper setting](./images/solder_jumper_setting.png | width=480)
 
-## Buy now (on SwichScience)
+## Buy now (on [SwichScience](https://www.switch-science.com/))
 
 [(HSB-VRB) LiPoバッテリー向け小型電圧変換基板（2個入り）]()
 
