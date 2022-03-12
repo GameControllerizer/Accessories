@@ -9,16 +9,17 @@ LiPoバッテリー（3.7V）からmicro:bitやブレッドボードに3.3V電�
 
 ## Board
 
-<img src=./images/board.png width="480">
+<img src=./images/board_01.jpg width="480">
+<img src=./images/board_00.png width="480">
 
 ## Spec
 
 - Size : 11.4 x 25.4 mm
-- Input voltage(max) : 6.0V
-- Max output current : 500mA
+- Input voltage (max) : 6.0V
+- Output current (max) : 500mA
 - Input connector : JST PH 2-pin
-- Output connector : 2.54mm pitch,through hole
-- Schematics : [hsb-vrb-v1_schematics.pdf](./hsb-vrb-v1_schematics.pdf)
+- Output connector : 2.54mm pitch, through hole
+- Schematics : [hsb-vrb-v1_schematics.pdf](./resources/hsb-vrb-v1_schematics.pdf)
 
 ## Usage examples
 
@@ -38,7 +39,7 @@ LiPoバッテリーのケーブル正負に応じて，ソルダジャンパを�
 
 ## Notice
 
-- 本製品は開発者向けの製品となっています．本ページおよび基板紹介ページの技術情報を読んでいただいた上でご自身の責任でご使用下さい．技術サポートは致しかねます．
+- 本製品は開発者向けの製品となっています．本ページの技術情報を読んでいただいた上でご自身の責任でご使用下さい．技術サポートは致しかねます．
 - 本製品を使用して発生した直接的・間接的な損害に対するその種類，規模を問わず補償は致しかねます．
 - 返品，キャンセル，返金等については各委託販売会社の規則に準じます．
 - 未実装の初期不良品交換のみ対応いたします（到着後2週間以内）．それ以外の部品実装後の交換・故障またはその原因追及は致しかねます．
