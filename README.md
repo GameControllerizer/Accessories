@@ -4,11 +4,12 @@
 # Voltage regulation board for LiPo battery
 
 LiPoバッテリー（3.7V）からmicro:bitやブレッドボードに3.3V電源を供給するための電圧変換基板です．
-ソルダジャンパを設定することでケーブルの正負が逆になっているLiPoバッテリーにも対応できます．  
+ソルダジャンパを設定することでケーブルの正負が逆になっているLiPoバッテリーにも対応できます．
+**[SwitchScienceにて委託販売中です（予定）](https://www.switch-science.com/)．**
 
 ## Board
 
-![board](./images/board.png | width=480)
+<img src=./images/board.png width="480">
 
 ## Spec
 
@@ -23,21 +24,17 @@ LiPoバッテリー（3.7V）からmicro:bitやブレッドボードに3.3V電�
 
 #### 1. for micro:bit
 
-![for_microbit](./images/for_microbit.jpeg | width=480)
+<img src=./images/for_microbit.jpg width="480">
 
 #### 2. for breadboard
 
-![for_breadboatd](./images/for_breadboard.jpeg | width=480)
+<img src=./images/for_breadboard.jpg width="480">
 
 ## Solder jmper setting
 
 LiPoバッテリーのケーブル正負に応じて，ソルダジャンパを以下のように設定します．
 
-![solder jumper setting](./images/solder_jumper_setting.png | width=480)
-
-## Buy now (on [SwichScience](https://www.switch-science.com/))
-
-[(HSB-VRB) LiPoバッテリー向け小型電圧変換基板（2個入り）]()
+<img src=./images/solder_jumper_setting.png width="420">
 
 ## Notice
 
