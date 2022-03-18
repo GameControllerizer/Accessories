@@ -3,7 +3,7 @@
 ---
 # Voltage regulation board for LiPo battery
 
-LiPoバッテリー（3.7V）からmicro:bitやブレッドボードに3.3V電源を供給するための電圧変換基板です．
+LiPoバッテリー（3.7V, JST-PH 2pin）からmicro:bitやブレッドボードに3.3V電源を供給するための電圧変換基板です．
 ソルダジャンパを設定することでケーブルの正負が逆になっているLiPoバッテリーにも対応できます．
 **[SwitchScienceにて委託販売中です（予定）](https://www.switch-science.com/)．**
 
@@ -17,7 +17,7 @@ LiPoバッテリー（3.7V）からmicro:bitやブレッドボードに3.3V電�
 - Size : 11.4 x 25.4 mm
 - Input voltage (max) : 6.0V
 - Output current (max) : 500mA
-- Input connector : JST PH 2-pin
+- Input connector : JST-PH 2pin
 - Output connector : 2.54mm pitch, through hole
 - Schematics : [hsb-vrb-v1_schematics.pdf](./resources/hsb-vrb-v1_schematics.pdf)
 
