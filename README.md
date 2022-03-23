@@ -5,7 +5,7 @@
 
 LiPoバッテリー（3.7V, JSTPH 2pin）からmicro:bitやブレッドボードに3.3V電源を供給するための電圧変換基板です．
 ソルダジャンパを設定することでケーブルの正負が逆になっているLiPoバッテリーにも対応できます．
-**[SwitchScienceにて委託販売中です（予定）](https://www.switch-science.com/)．**
+**[SwitchScienceにて委託販売中です](https://www.switch-science.com/catalog/8038/)．**
 
 ## Board
 
@@ -17,9 +17,12 @@ LiPoバッテリー（3.7V, JSTPH 2pin）からmicro:bitやブレッドボード
 - Size : 11.4 x 25.4 mm
 - Input voltage (max) : 6.0V
 - Output current (max) : 500mA
+- Output voltage : 3.3V
 - Input connector : JST PH 2pin
 - Output connector : 2.54mm pitch, through hole
 - Schematics : [hsb-vrb-v1_schematics.pdf](./resources/hsb-vrb-v1_schematics.pdf)
+
+※昇圧機能を有していないため，バッテリー残量が少なくなった場合に出力が3.3Vを下回ることがあります．
 
 ## Usage examples
 
